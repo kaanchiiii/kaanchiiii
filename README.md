@@ -4,8 +4,9 @@
   💻 Final-year B.Tech CSE Student <br/>
   🔧 Web Developer | SDE Enthusiast | DSA Explorer <br/>
   ☕ Fueled by coffee & curiosity <br/>
-  <a href="https://kaanchiiii.github.io/Portfolio/" target="_blank">🌐 Visit My Portfolio</a> <br/> 
+  <a href="https://kaanchiiii.github.io/Portfolio/" target="_blank" style="color: blue; text-decoration: none;">🌐 Visit My Portfolio</a> <br/> 
 </p>
+
 
 
 ---
