@@ -29,7 +29,7 @@ A basic AI model trained on MRI scans to detect brain tumors.
 
 #### **🏥 EffimedHUB - Healthcare Management Solution**  
 The EffimedHUB is a revolutionary healthcare management solution that combines web development, data visualization, resource management, and machine learning to address critical challenges in healthcare institutions. The project offers an intuitive dashboard, efficient resource allocation, and a powerful disease severity assessment model, all aimed at improving healthcare quality.  
-`Tools:` HTML, CSS, JavaScript, Python, Machine Learning, Data Visualization  
+`Tools:` HTML, CSS, JavaScript, React, Python, Machine Learning, Data Visualization  
 
 [GitHub Repo](https://github.com/kaanchiiii/Healthcare.github.io)  
 [Visit Website](https://kaanchiiii.github.io/Healthcare.github.io/)
