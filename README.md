@@ -27,13 +27,12 @@ A basic AI model trained on MRI scans to detect brain tumors.
 
 ---
 
-#### **🛍️ Shopify E-commerce Website**  
-An elegant online store built from scratch and optimized for user experience.  
-`Tools:` HTML, CSS, JavaScript, MySQL, Node.js  
-✨ Features: Shopping Cart, Login/Auth, Payment Page, Order Confirmation  
+#### **🏥 EffimedHUB - Healthcare Management Solution**  
+The EffimedHUB is a revolutionary healthcare management solution that combines web development, data visualization, resource management, and machine learning to address critical challenges in healthcare institutions. The project offers an intuitive dashboard, efficient resource allocation, and a powerful disease severity assessment model, all aimed at improving healthcare quality.  
+`Tools:` HTML, CSS, JavaScript, Python, Machine Learning, Data Visualization  
 
-[GitHub Repo](https://github.com/kaanchiiii/E-Commerce)  
-[Visit Website](https://fairyloom.onrender.com/)
+[GitHub Repo](https://github.com/kaanchiiii/Healthcare.github.io)  
+[Visit Website](https://kaanchiiii.github.io/Healthcare.github.io/)
 
 ---
 
@@ -44,8 +43,18 @@ A sleek personal portfolio showcasing my skills, projects, and resume.
 [GitHub Repo](https://github.com/kaanchiiii/Portfolio)  
 [Visit Website](https://kaanchiiii.github.io/Portfolio/)
 
+---
+
+#### **🛍️ Shopify E-commerce Website**  
+An elegant online store built from scratch and optimized for user experience.  
+`Tools:` HTML, CSS, JavaScript, MySQL, Node.js  
+✨ Features: Shopping Cart, Login/Auth, Payment Page, Order Confirmation  
+
+[GitHub Repo](https://github.com/kaanchiiii/E-Commerce)  
+[Visit Website](https://fairyloom.onrender.com/)
 
 ---
+
 
 ### 🛠️ Tech Stack
 
