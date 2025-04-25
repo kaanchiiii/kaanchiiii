@@ -65,9 +65,10 @@ A sleek personal portfolio showcasing my skills, projects, and resume.
 
 ### 🧠 Fun Facts
 
-- 🐘 I love elephants — calm, wise, and powerful 💙  
-- 🎧 Can code for hours with good music  
-- 🎬 Rom-com Bollywood movies are my comfort zone
+- 💙 Love exploring!  
+- 🎧 Can code for hours with good music!
+- 📚 Reading psychological thrillers is my favorite escape!  
+ 
 
 ---
 
