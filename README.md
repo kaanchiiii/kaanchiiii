@@ -6,7 +6,7 @@
   ☕ Fueled by coffee & curiosity <br/>
 </p>
 
-<div style="background: linear-gradient(to top left, #ff7e5f, #feb47b); height: 4px; margin-bottom: 20px;"></div>
+---
 
 ### 🚀 About Me
 
@@ -16,7 +16,7 @@
 - 💼 Actively seeking SDE roles and internship opportunities
 - 🎯 Always open to learning, building, and collaborating
 
-<div style="background: linear-gradient(to top left, #ff7e5f, #feb47b); height: 4px; margin-bottom: 20px;"></div>
+---
 
 
 ### 💼 Projects
