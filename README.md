@@ -18,29 +18,32 @@
 
 ---
 
-
 ### 💼 Projects
 
-#### 🧠 Brain Tumor Detection using Deep Learning  
+#### **🧠 Brain Tumor Detection using Deep Learning**  
 A basic AI model trained on MRI scans to detect brain tumors.  
 `Tools:` Python, CNN, EfficientNet-B0, OpenCV, Colab  
 [GitHub Repo](https://github.com/kaanchiiii/Brain-Tumor-Detection-Model)
 
 ---
 
-#### 🛍️ Shopify E-commerce Website
+#### **🛍️ Shopify E-commerce Website**  
 An elegant online store built from scratch and optimized for user experience.  
 `Tools:` HTML, CSS, JavaScript, MySQL, Node.js  
 ✨ Features: Shopping Cart, Login/Auth, Payment Page, Order Confirmation  
-[GitHub Repo](https://github.com/kaanchiiii/E-Commerce)
+
+[GitHub Repo](https://github.com/kaanchiiii/E-Commerce)  
 [Visit Website](https://fairyloom.onrender.com/)
+
 ---
 
-#### 🌐 Portfolio Website  
+#### **🌐 Portfolio Website**  
 A sleek personal portfolio showcasing my skills, projects, and resume.  
-`Tools:` HTML, CSS, JavaScript
-[Github Repo](https://github.com/kaanchiiii/Portfolio)
+`Tools:` HTML, CSS, JavaScript  
+
+[GitHub Repo](https://github.com/kaanchiiii/Portfolio)  
 [Visit Website](https://kaanchiiii.github.io/Portfolio/)
+
 
 ---
 
