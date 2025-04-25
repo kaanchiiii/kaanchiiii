@@ -6,7 +6,7 @@
   ☕ Fueled by coffee & curiosity <br/>
 </p>
 
----
+<div style="background: linear-gradient(to right, #ff7e5f, #feb47b); height: 4px; margin-bottom: 20px;"></div>
 
 ### 🚀 About Me
 
